@@ -19,10 +19,11 @@
       "mobile": false,
       "styles": [
         "styles.css",
+        "styles.scss",
         "../node_modules/materialize-css/dist/css/materialize.min.css"
       ],
       "scripts": [
-        "./node_modules/materialize-css/dist/js/materialize.min.js"
+        "../node_modules/materialize-css/dist/js/materialize.min.js"
       ],
       "environments": {
         "source": "environments/environment.ts",
