@@ -18,7 +18,6 @@
       "prefix": "app",
       "mobile": false,
       "styles": [
-        "styles.css",
         "styles.scss",
         "../node_modules/materialize-css/dist/css/materialize.min.css"
       ],
