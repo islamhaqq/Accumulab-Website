@@ -5,3 +5,11 @@
 $primary: #FF9800;
 $primary-dark: #F57C00;
 $primary-light: #FFB74D;
+
+// Spinning circle during app load
+#loading-circle{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transform: translateY(500%);
+}
