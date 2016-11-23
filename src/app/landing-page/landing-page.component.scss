@@ -1,14 +1,7 @@
-// html, body{
-//     max-height: 100% !important;
-//     min-height: 100% !important;
-//     margin: 0px !important;
-// }
-
-// #landing-page #main-text{
-//     max-height: 100% !important;
-//     min-height: 100% !important;
-//     margin: 0px !important;
-// }
+body{
+    max-height: 100vh;
+    min-height: 100vh;
+}
 
 #logo-container{
     padding-top: 10%;
@@ -16,5 +9,5 @@
 
 #login-signup-container{
     padding-top: 20px;
-    padding-bottom: 100%;
+    // padding-bottom: 100%;
 }
