@@ -25,6 +25,10 @@ const appRoutes: Routes = [
     component: ContactComponent
   },
   {
+    path: 'about',
+    component: AboutComponent
+  },
+  {
     path: 'blog',
     component: BlogComponent
   },
