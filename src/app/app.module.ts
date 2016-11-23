@@ -30,7 +30,7 @@ const appRoutes: Routes = [
   },
   {
     path: '',
-    component: HomeComponent
+    component: LandingPageComponent
   },
   {
     path: 'home',
